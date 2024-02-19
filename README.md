@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianazinchenko&theme=omni&show_icons=true)
+
 <!--
 **dianazinchenko/dianazinchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
