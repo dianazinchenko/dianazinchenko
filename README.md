@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Diana!
 
-👩🏼‍💻 Software Development student at 42 Porto</br>
+👩🏼‍💻 Software Development Student at 42 Porto</br>
 🌍 Languages enthusiast
 
 # 💻 Tech Stack:
